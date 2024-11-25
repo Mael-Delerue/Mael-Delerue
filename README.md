@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C, HTML and CSS
 - 💞️ I’m looking to collaborate on open source prjects and private ones too
 - 📫 How to reach me mael.delerue@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Sending a pipebomb to your mailbox!
 
 <!---
